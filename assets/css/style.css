@@ -202,11 +202,7 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-.benefit-common{
+#benefit-common{
     margin-bottom: 32px;
     color: #ffffff;
-}
-.test{
-    margin-bottom: 32px;
-    color: #ffffff; 
 }
